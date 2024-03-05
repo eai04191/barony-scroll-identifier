@@ -1,0 +1,61 @@
+/**
+ * https://github.com/TurningWheel/Barony/blob/51e7b8015ff2bc68654826076b5bf571e1d75534/src/scrolls.hpp#L15
+ */
+export const scrollLabels = [
+    "ZELGO MER",
+    "JUYED AWK YACC",
+    "NR 9",
+    "NOBARY ROBYAN",
+    "PRATYAVAYAH",
+    "DAIYEN FOOELS",
+    "LEP GEX VEN ZEA",
+    "PRIRUTSENIE",
+    "ELBIB YLOH",
+    "VERR YED HORRE",
+    "VENZAR BORGAVVE",
+    "THARR",
+    "YUM YUM",
+    "KERNOD WEL",
+    "ELAM EBOW",
+    "DUAM XNAHT",
+    "ANDOVA BEGARIN",
+    "KIRJE",
+    "VE FORBRYDERNE",
+    "HACKEM MUCHE",
+    "VELOX NEB",
+    "FOOBIE BLETCH",
+    "TEMOV",
+    "GARVEN DEH",
+    "READ ME",
+] as const;
+
+/**
+ * https://github.com/TurningWheel/Barony/blob/51e7b8015ff2bc68654826076b5bf571e1d75534/src/items.hpp#L714
+ */
+export const enchantedFeatherScrollsFixedList = [
+    "SCROLL_BLANK",
+    "SCROLL_MAIL",
+    "SCROLL_DESTROYARMOR",
+    "SCROLL_DESTROYARMOR",
+    "SCROLL_DESTROYARMOR",
+    "SCROLL_FIRE",
+    "SCROLL_FIRE",
+    "SCROLL_FIRE",
+    "SCROLL_LIGHT",
+    "SCROLL_LIGHT",
+    "SCROLL_SUMMON",
+    "SCROLL_SUMMON",
+    "SCROLL_IDENTIFY",
+    "SCROLL_IDENTIFY",
+    "SCROLL_REMOVECURSE",
+    "SCROLL_CONJUREARROW",
+    "SCROLL_FOOD",
+    "SCROLL_FOOD",
+    "SCROLL_TELEPORTATION",
+    "SCROLL_TELEPORTATION",
+    "SCROLL_CHARGING",
+    "SCROLL_REPAIR",
+    "SCROLL_MAGICMAPPING",
+    "SCROLL_ENCHANTWEAPON",
+    "SCROLL_ENCHANTARMOR",
+] as const;
